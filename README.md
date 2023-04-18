@@ -16,4 +16,4 @@
   * Позиционирование;
   * Popup
 
-# [Сайт в GIT PAGES] (https://kuhiku-hub.github.io/Project-mesto/)
+# [Сайт в GIT PAGES](https://kuhiku-hub.github.io/Project-mesto/)
